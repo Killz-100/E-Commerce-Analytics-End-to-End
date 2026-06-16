@@ -252,7 +252,7 @@ MBA (Artificial Intelligence and Data Science)
 
 GitHub: https://github.com/Killz-100
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: https://www.linkedin.com/in/abhishek-ra-/
 
 ---
 
