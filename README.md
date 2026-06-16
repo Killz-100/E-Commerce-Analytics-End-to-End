@@ -233,7 +233,20 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Model Evaluation
 
 ---
+## 📂 Additional Resources
 
+Due to GitHub file size limitations, the Power BI dashboard file and datasets are hosted on Google Drive.
+
+🔗 **Download Project Files:**  
+https://drive.google.com/drive/folders/1TeqQINm6PL9Y24loVvkXJB2huINcer1Q?usp=drive_link
+
+---
+The folder contains:
+
+- 📊 Power BI Dashboard (.pbix)
+- 📁 Datasets
+- 🖼️ Dashboard Screenshots
+- 📑 Additional Project Files
 ## 🚀 Future Improvements
 
 - XGBoost Implementation
